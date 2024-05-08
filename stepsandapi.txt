@@ -1,0 +1,8 @@
+steps
+pip install setuptools wheel
+python setup.py sdist bdist_wheel
+
+python -m twine upload dist/*
+
+
+pypi-AgEIcHlwaS5vcmcCJDBlMmM4MDExLTRiYjMtNDVhYy04YzBiLTViYmNhNWVjOTVhNgACKlszLCJlZTBkOTAwYi1kZjM4LTQ2OGYtOGYzNS0xODJiODY2YTgzMmEiXQAABiCMQQBZyOi8c2t8WTJ1qMcXLbruschdFVM8v_7O2xh0Fg
