@@ -38,7 +38,7 @@ This repository contains a collection of functions implemented in PySpark for co
 
 1. Clone the repository:
     ```
-    git clone https://github.com/your_username/data-quality-checks.git
+    git clone https://github.com/harunraseed/hrbdataproject.git
     ```
 
 2. Import the Python script into your project:
